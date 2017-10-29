@@ -38,6 +38,7 @@ section {
 }
 div {
     display: inline-block;
+    margin-top: 40px;
     width: 33%;
 }
 span {
@@ -65,4 +66,13 @@ span:hover {
 }
 .box-header ul li:hover {
     color: #f9a91a;
+}
+footer {
+    background-color: #303030;
+    margin-top: 50px;
+}
+footer p {
+    color: #fff;
+    text-align: center;
+    padding: 30px 0;
 }
